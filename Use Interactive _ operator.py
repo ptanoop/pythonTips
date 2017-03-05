@@ -10,3 +10,4 @@
 >>> print _
 3
 '''
+# _ references to the output of the last executed expression
