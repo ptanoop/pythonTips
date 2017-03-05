@@ -8,3 +8,5 @@ print(sys.getrecursionlimit())
  
 #1-> 1000
 #2-> 1001
+
+#Python restricts recursion limit to 1000. We can though reset its value.
